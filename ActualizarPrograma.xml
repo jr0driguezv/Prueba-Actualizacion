@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<ActualizadorAplicacion> 
+    <update appID="Bvsoft"> 
+        <version>1.0.0.11</version> 
+        <url>https://raw.githubusercontent.com/jr0driguezv/Prueba-Actualizacion/master/Bvsoft.exe</url> 
+        <fileName>Bvsoft.exe</fileName> 
+        <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
+        <description>Actualización: 13/09/2018:
+        1. Se agregó un mensaje de notificación cuando la versión actual ya es la última.</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</ActualizadorAplicacion> 
