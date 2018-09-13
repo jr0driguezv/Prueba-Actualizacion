@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>3.0.0.0</version> 
-        <url>https://github.com/jr0driguezv/Prueba-Actualizacion/blob/master/TestApp.exe?raw=true</url> 
+        <url>https://raw.githubusercontent.com/jr0driguezv/Prueba-Actualizacion/master/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 13/09/2018:
