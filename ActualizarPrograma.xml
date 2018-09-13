@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <ActualizadorAplicacion> 
     <update appID="Bvsoft"> 
-        <version>1.0.0.11</version> 
+        <version>1.0.0.12</version> 
         <url>https://raw.githubusercontent.com/jr0driguezv/Prueba-Actualizacion/master/Bvsoft.exe</url> 
         <fileName>Bvsoft.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
